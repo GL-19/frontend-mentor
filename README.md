@@ -22,7 +22,7 @@
 
 #### Link: https://gl-19-ping-pong-coming-soon-page.netlify.app/
 
-#### Repository: https://github.com/GL-19/front-end-mentor-ping-pong-coming-soon-page
+#### Repository: https://github.com/GL-19/ping-pong-coming-soon-page
 
 ---
 
@@ -30,7 +30,7 @@
 
 #### Link: https://gl-19-intro-component-with-sign-up-form.netlify.app/
 
-#### Repository: https://github.com/GL-19/Intro-component-with-sign-up-form-challenge-on-Frontend-Mentor
+#### Repository: https://github.com/GL-19/intro-component-with-sign-up-form
 
 ---
 
@@ -54,7 +54,7 @@
 
 #### Link: https://gl-19-article-preview-component.netlify.app/
 
-#### Repository: https://github.com/GL-19/frontend-mentor-article-preview-component
+#### Repository: https://github.com/GL-19/article-preview-component
 
 ---
 
